@@ -1,0 +1,48 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "OcCode16",
+      "OcListOrdered16",
+      "OcClock24",
+      "OcAccessibility16",
+      "OcTasklist24",
+      "OcCalendar24",
+      "OcImage24",
+      "OcLog24",
+      "OcTools24",
+      "OcGear24"
+    ],
+    "recentlyUsedIconsSize": 10,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false
+  },
+  "01 - Daily Notes": "OcCalendar24",
+  "02 - Projects": "OcTools24",
+  "99 - Meta": "OcGear24",
+  "04 - Tips and Tricks": "OcLog24",
+  "00 - Assets": "OcImage24",
+  "98 - Personal": "OcAccessibility16",
+  "03 - Planning": "OcTasklist24",
+  "97 - Temporary Notes": "OcClock24",
+  "Activity Summary.md": "OcListOrdered16"
+}

@@ -1,0 +1,9 @@
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "00 - Assets",
+  "userIgnoreFilters": [
+    "00 - Assets/"
+  ],
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true
+}
